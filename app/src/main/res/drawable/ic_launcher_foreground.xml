@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Lock body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,58 L38,48 C38,40.268 44.268,34 52,34 L56,34 C63.732,34 70,40.268 70,48 L70,58"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,58 L74,58 C76.209,58 78,59.791 78,62 L78,80 C78,82.209 76.209,84 74,84 L34,84 C31.791,84 30,82.209 30,80 L30,62 C30,59.791 31.791,58 34,58 Z" />
+    <!-- Star of David hint (simple) -->
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M54,66 L58,72 L50,72 Z" />
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M54,76 L50,70 L58,70 Z" />
+</vector>
